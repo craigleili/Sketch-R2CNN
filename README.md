@@ -16,12 +16,12 @@ Sketches in existing large-scale datasets like the recent QuickDraw collection a
 
 ```
 @article{Li_2020_TVCG,
-	title = {{Sketch-R2CNN}: An RNN-Rasterization-CNN Architecture for Vector Sketch Recognition},
-	author = {Li, Lei and Zou, Changqing and Zheng, Youyi and Su, Qingkun and Fu, Hongbo and Tai, Chiew-Lan},
+    title = {{Sketch-R2CNN}: An RNN-Rasterization-CNN Architecture for Vector Sketch Recognition},
+    author = {Li, Lei and Zou, Changqing and Zheng, Youyi and Su, Qingkun and Fu, Hongbo and Tai, Chiew-Lan},
     journal = {IEEE Transactions on Visualization and Computer Graphics},
-	year = {2020},
+    year = {2020},
     volume = {},
-	pages = {1--1},
+    pages = {1--1},
     doi = {10.1109/TVCG.2020.2987626},
 }
 ```
@@ -84,5 +84,5 @@ sh tuberlin_r2cnn_eval.sh
 
 ## References
 1. Ha and Eck. [A Neural Representation of Sketch Drawings](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn). ICLR 2018.
-1. Eitz et al. [How Do Humans Sketch Objects?](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/). TOG 2012.
+1. Eitz et al. [How Do Humans Sketch Objects?](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/) TOG 2012.
 1. Kato et al. [Neural 3D Mesh Renderer](https://github.com/hiroharu-kato/neural_renderer). CVPR 2018.
